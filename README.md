@@ -12,7 +12,7 @@ To run this project, you will need:
 
 To install the dev dependencies, run `npm install` (or `npm i` for short.)
 
-# Creation
+## Creation
 
 For creation, it was using HTML5, CSS and JavaScript.
 I used CSS to move images and create the scenery. JavaScript was used to perform the game's functions.
